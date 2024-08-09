@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin: auto;
+}
+h1{
+    color: rgb(153, 32, 32);}
+ul{
+text-align: center;
+}
+.titulo{
+    padding-top: 0;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    padding-right: 10px;
+    background-color: rgb(234, 220, 250);
+}
