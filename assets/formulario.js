@@ -1,3 +1,9 @@
+
+function pintarNombre() {
+    document.getElementById("saludo").innerHTML += localStorage.getItem("name"); 
+}
+pintarNombre()
+
 function genero(){
     const form = document.getElementById('access-from');
     
